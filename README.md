@@ -1,4 +1,4 @@
-[![Demo Video](https://img.youtube.com/vi/gx1gWvRSNz4/maxresdefault.jpg)](https://youtu.be/gx1gWvRSNz4)
+[![Demo Video](https://img.youtube.com/vi/QJsZasct24I/maxresdefault.jpg)](https://youtu.be/QJsZasct24I)
 
 	Project Name: AiThLocalizer
 	Description: โปรแกรมแปลภาษาเกมจาก English เป็น Thai โดยใช้ Local LLM
