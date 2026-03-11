@@ -2,5 +2,5 @@
 
 Project Name: AiThLocalizer
 Description: โปรแกรมแปลภาษาเกมจาก English เป็น Thai โดยใช้ Local LLM
-How to install: บอกให้เขารัน npm install และ pip install -r requirements.txt
+How to install: npm install และ pip install -r requirements.txt
 Model Download:
