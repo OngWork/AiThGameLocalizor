@@ -1,0 +1,6 @@
+flask
+flask-cors
+pywebview
+llama-cpp-python
+huggingface_hub
+pyinstaller
